@@ -18,9 +18,10 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 
 ## Experiment:
+1.
 
 <img width="413" alt="image" src="https://github.com/Nagadurg/Muttiple-capacity-with-infinite-capacity/assets/94185707/52c743b8-5d25-494b-be06-69ed45e3852e">
-
+2.
 
 <img width="413" alt="image" src="https://github.com/Nagadurg/Muttiple-capacity-with-infinite-capacity/assets/94185707/2332fab1-610a-4141-8226-9551440d4c37">
 
